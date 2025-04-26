@@ -3,8 +3,6 @@
 
 ## Overview
 
-This project helps 1st-year university students by:
-
 - Finding the **shortest path between two campus buildings** using **Dijkstra's Algorithm**.
 - Sorting the **courses they must take** using **Topological Sort**.
 
